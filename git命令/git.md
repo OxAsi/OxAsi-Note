@@ -44,3 +44,16 @@ git reset --hard: 丢弃所有本地的修改，回到最近的提交状态。
 git diff: 查看工作区和暂存区的差异。
 git diff <commit1> <commit2>: 查看两个提交之间的差异。
 这只是 Git 命令的一小部分，Git 提供了许多其他命令和选项，具体用法可以通过 git --help 或查阅 Git 文档来获取。
+
+
+## Git安装与下载
+## 基础指令
+* git init 初始化仓库
+* git status 查看状态
+* git add xxx 添加文件
+* git commit -m "注释内容" 提交到本地仓库
+* git log 查看提交日志
+* git reset --hard commitID 版本回退 
+## 分支
+## 远程仓库
+## IDE中使用Git
