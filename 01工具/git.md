@@ -57,3 +57,25 @@ git diff <commit1> <commit2>: 查看两个提交之间的差异。
 ## 分支
 ## 远程仓库
 ## IDE中使用Git
+
+
+
+## 常用命令
+### git命令
+
+* git add
+* git status
+* git log
+* git reset --hard ID
+* git reflog
+* git branch
+* git git branch xxx
+* git checkout xxx
+* git checkout -b xxx
+* git merge xxx
+* git branch -d xxx
+* master(main) develop feature hotfix test
+* git fetch
+* git pull
+* git push
+
